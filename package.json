@@ -24,7 +24,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "jquery": "^3.4.1",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "nodemon": "^1.17.3",
     "toastr": "^2.1.4",
     "truffle": "5.0.2",
